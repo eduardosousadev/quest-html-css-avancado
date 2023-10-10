@@ -8,10 +8,12 @@ Quests são desafios a serem feitos ao longo do curso para testar os conheciment
 ### Sobre essa QUEST
 O desafio é uma landing page retirada do site [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). É fundamental que a página seja responsiva para dispositivos desktop, tablets e mobiles.
 
-### Layout web
+### Layout
+Segue abaixo duas imagens do desafio, uma para desktop e outra para dispositivos móveis 👇
+#### Layout web
 <img width='500' src="src/designer/desktop-design.jpg" />
 
-### Layout mobile
+#### Layout mobile
 <img width='250' src="src/designer/mobile-design.jpg" />
 
 ### Tecnologias utilizadas
