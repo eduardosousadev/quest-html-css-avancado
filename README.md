@@ -27,4 +27,4 @@ Eduardo Sousa
 Entre em contato 👇
 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosousadev/)](https://www.linkedin.com/in/eduardosousadev/)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:eduardosousa.dev@hotmail.com)](mailto:eduardosousa.dev@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:eduardosousa.dev@hotmail.com)](mailto:eduardosousa.dev@hotmail.com)
