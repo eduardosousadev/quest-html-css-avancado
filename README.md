@@ -21,9 +21,10 @@ O desafio é uma landing page retirada do site do site [Frontend Mentor](https:/
 
 #### Autor
 ---
-<img style="border-radius: 50%;" src="[https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4](https://media.licdn.com/dms/image/C4E03AQHVKoLTs4sZPg/profile-displayphoto-shrink_400_400/0/1654131446910?e=1702512000&v=beta&t=WJfpeXuMLZGr5QdgreiWeE8XHx94Me8JKOrKwAi3-tY)" width="100px;" alt=""/>
-<br />
-Eduardo Sousa
+<a href="#">
+ <img style="border-radius: 50%;" src="[https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4](https://media.licdn.com/dms/image/C4E03AQHVKoLTs4sZPg/profile-displayphoto-shrink_400_400/0/1654131446910?e=1702512000&v=beta&t=WJfpeXuMLZGr5QdgreiWeE8XHx94Me8JKOrKwAi3-tY)" width="100px;" alt=""/>
+ <br />
+ <sub><b>Eduardo Sousa</b></sub></a> <a href="#">🚀</a>
 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosousadev/)](https://www.linkedin.com/in/eduardosousadev/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:eduardosousa.dev@hotmail.com)](mailto:eduardosousa.dev@hotmail.com)
