@@ -18,9 +18,11 @@ O desafio é uma landing page retirada do site do site [Frontend Mentor](https:/
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+
 #### Autor
 ---
 Eduardo Sousa
+<br />
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosousadev/)](https://www.linkedin.com/in/eduardosousadev/)
 
 
