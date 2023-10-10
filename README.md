@@ -14,6 +14,10 @@ O desafio é uma landing page retirada do site do site [Frontend Mentor](https:/
 ### Layout mobile
 <img width='250' src="src/designer/mobile-design.jpg" />
 
+### Tecnologias utilizadas
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML){:target="_blank"}
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS){:target="_blank"}
+
 #### Autor
 Luis Eduardo de Sousa Cunha
 https://www.linkedin.com/in/eduardosousadev
