@@ -147,11 +147,26 @@ body {
 
     .main .informations a {
         width: 200px;
+        transition: none;
+    }
+
+    .main .informations a:hover {
+        box-shadow: none;
+        color: hsl(257, 40%, 49%);
+        font-weight: normal;
+        background-color: #fff;
     }
 
     .footer {
         justify-content: center;
         margin-top: 80px;
+    }
+
+    .footer .social-media a .fa-brands:hover {
+        box-shadow: none;
+        background-color: transparent;
+        color: #fff;
+        font-weight: normal;
     }
 }
 
@@ -174,5 +189,20 @@ body {
 
     .main .informations a {
         font-size: 12px;
+        transition: none;
+    }
+
+    .main .informations a:hover {
+        box-shadow: none;
+        color: hsl(257, 40%, 49%);
+        font-weight: normal;
+        background-color: #fff;
+    }
+
+    .footer .social-media a .fa-brands:hover {
+        box-shadow: none;
+        background-color: transparent;
+        color: #fff;
+        font-weight: normal;
     }
 }
