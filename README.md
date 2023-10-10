@@ -23,6 +23,7 @@ O desafio é uma landing page retirada do site do site [Frontend Mentor](https:/
 ---
 Eduardo Sousa
 <br />
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosousadev/)](https://www.linkedin.com/in/eduardosousadev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosousadev/)](https://www.linkedin.com/in/eduardosousadev/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:eduardosousa.dev@hotmail.com)](mailto:eduardosousa.dev@hotmail.com)
 
 
